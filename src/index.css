@@ -1,0 +1,20 @@
+.active{
+    color: black;
+    font-weight: bold;
+}
+.desactive{
+    color: white;
+}
+.banner >img{
+    object-fit: cover;
+    height: 300px;
+    width: 100%;
+}
+.bannerText{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    color: white;
+    text-align: center;
+}
+
